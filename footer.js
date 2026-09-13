@@ -32,7 +32,7 @@
     { id: 'dropfleet', name: 'Dropfleet', url: 'https://type37.github.io/dropfleet-builder/', kind: 'Fleet builder, scenario generator, scenario reference, combat calc, quick reference sheets, rules wiki, starter lists & builds', logo: 'logos/dropfleet.webp' },
     { id: 'dropzone', name: 'Dropzone', url: 'https://type37.github.io/dropzone-3e-army-builder/', kind: 'Army builder, scenario references, rules wiki', logo: 'logos/dropzone.webp' },
     { id: 'abs', name: 'A Billion Suns', url: 'https://type37.github.io/a-billion-suns-shipyard/', kind: 'Fleet builder, solo campaign tracker, ship compendium, starter lists, rules overview, custom faction builder', osprey: 'A Billion Suns' },
-    { id: 'pacific', name: 'Pacific Command', url: 'https://jetwong.neocities.org/wargaming/historicals/pacific-command-builder-2', kind: 'Task force builder, campaign builder, historical lists', osprey: 'Pacific Command' },
+    { id: 'pacific', name: 'Pacific Command', url: 'https://type37.github.io/pacific-command-builder/', kind: 'Task force builder, campaign builder, historical lists', osprey: 'Pacific Command' },
     { id: 'dragon', name: 'Dragon Rampant', url: 'https://type37.github.io/dragon-rampant-2e-warband-builder/', kind: 'Warband builder, starter warbands', logo: 'logos/dragon-rampant.webp' },
     { id: 'xenos', name: 'Xenos Rampant', url: 'https://type37.github.io/xenos-rampant-force-builder/', kind: 'Detachment builder, pre-made detachments', osprey: 'Xenos Rampant' },
     { id: 'steelrift', name: 'Steel Rift', url: 'https://type37.github.io/Steel-Rift-Hangar-WL/', kind: 'Army builder, print mode', logo: 'logos/steel-rift.svg' },
