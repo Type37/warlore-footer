@@ -35,6 +35,7 @@
     { id: 'pacific', name: 'Pacific Command', url: 'https://type37.github.io/pacific-command-builder/', kind: 'Task force builder, campaign builder, historical lists', osprey: 'Pacific Command' },
     { id: 'dragon', name: 'Dragon Rampant', url: 'https://type37.github.io/dragon-rampant-2e-warband-builder/', kind: 'Warband builder, starter warbands', logo: 'logos/dragon-rampant.webp' },
     { id: 'xenos', name: 'Xenos Rampant', url: 'https://type37.github.io/xenos-rampant-force-builder/', kind: 'Detachment builder, pre-made detachments', osprey: 'Xenos Rampant' },
+    { id: 'oathmark', name: 'Oathmark', url: 'https://type37.github.io/oathmark-2e-kingdom-builder/', kind: 'Kingdom builder, army muster, collection tracker, rules reference', osprey: 'Oathmark' },
     { id: 'steelrift', name: 'Steel Rift', url: 'https://type37.github.io/Steel-Rift-Hangar-WL/', kind: 'Army builder, print mode', logo: 'logos/steel-rift.svg' },
     { id: 'warcrow', name: 'Warcrow', url: 'https://jetwong.neocities.org/wargaming#warcrow', kind: 'Quick reference sheet, print-friendly rules reference, links, references, fonts, guides for new players', logo: 'logos/warcrow.webp' }
   ];

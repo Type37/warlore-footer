@@ -6,7 +6,7 @@ One footer for every WarLore tool. Each app loads it with one line:
 <script src="https://type37.github.io/warlore-footer/footer.js" data-current="dropfleet" defer></script>
 ```
 
-`data-current` is the tool you are on: `dropfleet`, `dropzone`, `abs`, `pacific`, `dragon`, `xenos`, `steelrift` or `warcrow`. It underlines that tool's link.
+`data-current` is the tool you are on: `dropfleet`, `dropzone`, `abs`, `pacific`, `dragon`, `xenos`, `oathmark`, `steelrift` or `warcrow`. It underlines that tool's link.
 
 The script appends `<footer class="wlf">` to the end of `<body>`. To put it somewhere else, add an element with `data-warlore-footer` and it fills that instead. Everything it adds is scoped under `.wlf`.
 
